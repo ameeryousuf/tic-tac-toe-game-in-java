@@ -1,6 +1,6 @@
 # Tic Tac Toe Game in Java
 
-![output](output.PNG)
+![output](output.png)
 
 ## Overview
 
